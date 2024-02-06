@@ -42,7 +42,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Assistance through Facial Recognition</h3>
+<h3 align="center">Face Recognition Images</h3>
 <div align="center">                                       
 <a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><img src="https://private-user-images.githubusercontent.com/105398438/302482494-6dfd5fb6-b736-46a5-abb0-cec4144c1661.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxODY2ODMsIm5iZiI6MTcwNzE4NjM4MywicGF0aCI6Ii8xMDUzOTg0MzgvMzAyNDgyNDk0LTZkZmQ1ZmI2LWI3MzYtNDZhNS1hYmIwLWNlYzQxNDRjMTY2MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQwMjI2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjJhMGRkYmUzZTU2Yjg3N2IxN2ViYzA5OWFiNDNmMDRkOWY4MzEzM2FkMzkzM2FiYzc2ZGNhNmUzNWZkY2M0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wxQasBB_qjzS_IBehtxR_jHJe-mMtBKbfITtaIYGWn4" width="400"></a>
 <br>
