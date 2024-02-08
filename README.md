@@ -87,6 +87,27 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Assistance through Facial Recognition</h3>
+<div align="center">
+<a href="https://github.com/NicholasEslava/Assistance-through-Facial-Recognition" target="_blank"><img src="https://i.imgur.com/q45bWo2.png" width="400" ></a>
+<p>
+<a href="https://github.com/NicholasEslava/Assistance-through-Facial-Recognition" target="_blank"><br>
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+</div>
+                                                                                      
+</td>
+
+
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 
 
