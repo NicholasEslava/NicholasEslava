@@ -55,7 +55,6 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
 
 <table>
 <tr>
@@ -74,12 +73,12 @@
 </td>
 
 <td width="50%">
-<h3 align="center">Face Recognition Images</h3>
+<h3 align="center">Virtual Assistent</h3>
 <div align="center">                                       
-<a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><img src="https://i.imgur.com/uf1hrBp.jpg" width="400"></a>
+<a href="https://github.com/NicholasEslava/Virtual_Asistent" target="_blank"><img src="https://i.imgur.com/Sg3y304.png" width="400"></a>
 <br>
 <p>
-<a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><br>
+<a href="https://github.com/NicholasEslava/Virtual_Asistent" target="_blank"><br>
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
