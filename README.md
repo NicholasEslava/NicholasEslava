@@ -31,7 +31,7 @@
 <td width="50%">
 <h3 align="center">Invasion Game</h3>
 <div align="center">
-<a href="https://github.com/NicholasEslava/InvasionGame?tab=readme-ov-file" target="_blank"><img src="https://private-user-images.githubusercontent.com/105398438/302476962-b28c51c4-2fbe-4231-973a-1d5dcd999cd1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxOTAzNDksIm5iZiI6MTcwNzE5MDA0OSwicGF0aCI6Ii8xMDUzOTg0MzgvMzAyNDc2OTYyLWIyOGM1MWM0LTJmYmUtNDIzMS05NzNhLTFkNWRjZDk5OWNkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQwMzI3MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zY2U4MDAwMjc4ZjRjMTE2MjhlY2NmMWI2MTliZWNjODYwN2MxNmUwNDJiODkwMmRmOTQ5NDdjM2ZmOGFlMDA5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.73qBOrbzljdy9Cdl-zkbEjjkmYdje4gA0YcxEA4fAaQ" width="400" ></a>
+<a href="https://github.com/NicholasEslava/InvasionGame?tab=readme-ov-file" target="_blank"><img src="https://i.imgur.com/7SkWOm1.jpg" width="400" ></a>
 <p>
 <a href="https://github.com/NicholasEslava/InvasionGame?tab=readme-ov-file" target="_blank"><br>
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -43,10 +43,9 @@
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Face Recognition Images</h3>
 <div align="center">                                       
-<a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><img src="https://private-user-images.githubusercontent.com/105398438/302482494-6dfd5fb6-b736-46a5-abb0-cec4144c1661.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcxODY2ODMsIm5iZiI6MTcwNzE4NjM4MywicGF0aCI6Ii8xMDUzOTg0MzgvMzAyNDgyNDk0LTZkZmQ1ZmI2LWI3MzYtNDZhNS1hYmIwLWNlYzQxNDRjMTY2MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQwMjI2MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjJhMGRkYmUzZTU2Yjg3N2IxN2ViYzA5OWFiNDNmMDRkOWY4MzEzM2FkMzkzM2FiYzc2ZGNhNmUzNWZkY2M0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.wxQasBB_qjzS_IBehtxR_jHJe-mMtBKbfITtaIYGWn4" width="400"></a>
+<a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><img src="https://i.imgur.com/uf1hrBp.jpg" width="400"></a>
 <br>
 <p>
 <a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><br>
