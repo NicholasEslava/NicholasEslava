@@ -57,6 +57,37 @@
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Facturation System</h3>
+<div align="center">
+<a href="https://github.com/NicholasEslava/My_Restaurant/tree/main" target="_blank"><img src="https://i.imgur.com/6yWYqQZ.png" width="400" ></a>
+<p>
+<a href="https://github.com/NicholasEslava/My_Restaurant/tree/main" target="_blank"><br>
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Face Recognition Images</h3>
+<div align="center">                                       
+<a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><img src="https://i.imgur.com/uf1hrBp.jpg" width="400"></a>
+<br>
+<p>
+<a href="https://github.com/NicholasEslava/Face_Recognition_Images" target="_blank"><br>
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 
 
 
